@@ -24,8 +24,7 @@ Because this application won’t be deployed, you’ll also need to create a wal
 -
 
 ## Usage 
-Walkthrough Video:
--
+Walkthrough Video: https://drive.google.com/file/d/1mRwFxH_0CuSeOC3Gn-XTn52hR8wbjoxJ/view
 
 ## License
 -
